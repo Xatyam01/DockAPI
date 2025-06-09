@@ -39,7 +39,7 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 ## ⚙️ Setup Instructions
 
 🔧 1. Build Docker Image
-docker build -t flask-api:latest .
+`docker build -t flask-api:latest .`
 
 📦 2. Load Image into Minikube
 minikube image load flask-api:latest
