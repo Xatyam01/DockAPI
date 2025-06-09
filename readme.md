@@ -5,7 +5,7 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 ---
 
 ## 📁 Project Structure
-`Project/
+```Project/
 ├── app/
 │ └── app.py
 │ └── requirements.txt
@@ -22,7 +22,7 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 ├── .gitignore
 ├── README.md
 └── redeploy.bat
-`
+```
 
 ---
 
