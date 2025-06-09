@@ -42,18 +42,18 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 `docker build -t flask-api:latest .`
 
 📦 2. Load Image into Minikube
-minikube image load flask-api:latest
+`minikube image load flask-api:latest`
 
 ⎈ 3. Deploy via Helm
-helm upgrade --install flask-api helm/flask-api
+`helm upgrade --install flask-api helm/flask-api`
 
 🌐 4. Access the API
-minikube service flask-api --url
+`minikube service flask-api --url`
 - Then open the URL in your browser.
 
 🛠️ Redeploy on Code Change
 -Modify app.py, then run: 
-./redeploy.bat
+`./redeploy.bat`
 
 
  
