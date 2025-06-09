@@ -55,10 +55,10 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 -Modify app.py, then run: 
 `./redeploy.bat`
 
-## 📸 Screenshots
+## 📸 Screenshot 
 
-### 🖼️ Game Interface
-![Game Screenshot](images/Screenshot121532.png)
+### Browser URL
+![browser with:URL](images/Screenshot121532.png)
 
-### 🎉 Winning Moment
-![Confetti and Sound](images/Screenshot121546.png)
+### Flask app running 
+![Flask app running ](images/Screenshot121546.png)
