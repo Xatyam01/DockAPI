@@ -57,8 +57,8 @@ This project demonstrates deploying a simple **Flask API** using **Docker**, **M
 
 ## 📸 Screenshots
 
-![](Screenshot 2025-06-09 121532.png)
+### 🖼️ Game Interface
+![Game Screenshot](images/Screenshot121532.png)
 
-
-![](Screenshot 2025-06-09 121546.png)
- 
+### 🎉 Winning Moment
+![Confetti and Sound](images/Screenshot121546.png)
